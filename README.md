@@ -1,4 +1,4 @@
-# Siamese-network-model-ver2-mnist
+# Siamese neural network One-shot learning Paper model
 > Siamenetwork 구조를 적용한 모델 학습 프로젝트이다.
 
 > AT&T dataset을 활용하여 한쌍의 숫자 이미지에 대한 유사도를 판별한다.
@@ -33,6 +33,7 @@
 # 사이트
 ### 1. link
 > 두명의 사진을 입력받고, 두 사진속 인물의 얼굴 유사도를 퍼센테이지로 보여주는 사이트이다.
+
 > http://3.35.4.129/
 
 ### 2. github
