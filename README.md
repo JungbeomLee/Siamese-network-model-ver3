@@ -34,7 +34,7 @@
 ### 1. link
 > 두명의 사진을 입력받고, 두 사진속 인물의 얼굴 유사도를 퍼센테이지로 보여주는 사이트이다.
 
-> http://3.35.4.129/
+> ai.sebuung.team
 
 ### 2. github
 > https://github.com/YoonHyunWoo/A.child
